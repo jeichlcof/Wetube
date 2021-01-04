@@ -4,6 +4,7 @@ const JOIN = "/join";
 const LOGIN = "/login";
 const LOGOUT = "/logout";
 const SHEARCH = "/search";
+
 // Users
 
 const USERS = "/users";
